@@ -1,6 +1,3 @@
-**************Internshala Web Development Final Project Solution***BY  AAYUSH SUHALKA*********************************************
-
-DESCRIPTION: This is the solution for the e-commerce website 
 
 Extract the files from estore.zip.
 
@@ -56,8 +53,4 @@ FOLLOW ME : aayush.suhalka @instagram, vision.tales @instagram, Aayush Suhalka @
 
 *******************************************************************************************************************************************
 LICENSE AND COPYRIGHT: All the images used for this project are representational images.
-Internshala holds no copyright over these images.
-TRADEMARKS:
-1.)The trademarks of the brands belong to the respective brands and Internshala does not trademark violations.
-2.)"Estore" is not registered trademarks of Internshala nor it holds any copyright over the use of these words.
 
